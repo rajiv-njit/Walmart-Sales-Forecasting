@@ -1,7 +1,9 @@
 # Walmart-Sales-Forecasting
 To create a model that can forecast Walmart sales to stores in the future with accuracy. In addition to expanding on previous work on this dataset, we will investigate fresh and creative ideas.
 
-# Dataset ( https://www.kaggle.com/datasets/yasserh/walmart-dataset/data ) :  
+# Dataset 
+Link: https://www.kaggle.com/datasets/yasserh/walmart-dataset/data
+
 This is the historical sales data from the Walmart Store Sales file (Total 45 Walmart Stores), including sales from 2010-02-05 to 2012-11-01. A lot of variables, such as store number, date, weekly sales, holiday flag, temperature, fuel cost, CPI, unemployment rate, and holiday events, are included in it and can be utilized to forecast future sales.
 
 # Proposal : 
